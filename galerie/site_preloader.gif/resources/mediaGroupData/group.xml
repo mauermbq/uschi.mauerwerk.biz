@@ -1,0 +1,579 @@
+<?xml version="1.0"?>
+<mediaGroup>
+<amgVersion version="1.3"/>
+<groupInfo>
+<author/>
+<authorApplication>Lightroom 5.7.1</authorApplication>
+<creationDate>03/07/15, 06:27:26 nachm.</creationDate>
+<galleryMaker name="Adobe Flash Gallery" version="1.3"/>
+<groupData groupID="" groupName=""/>
+<authorID/>
+<custom>
+<groupTitle>Uschi Mauerwerk</groupTitle>
+<groupDescription>Web-Fotogalerie erstellt mit Adobe Lightroom.</groupDescription>
+<siteTitle>Galerie s&#x00E4;mtlicher Bilder</siteTitle>
+<contactName>uschi@mauerwerk.biz</contactName>
+<contactEmail>mailto:benutzer@domaene</contactEmail>
+</custom>
+</groupInfo>
+<sizes>
+<imageSize maxheight="48" maxwidth="48" size="thumb"/>
+<imageSize maxheight="300" maxwidth="450" size="small"/>
+<imageSize maxheight="450" maxwidth="800" size="medium"/>
+<imageSize maxheight="520" maxwidth="1040" size="large"/>
+</sizes>
+<media totalGallerySize="46">
+<item>
+<title></title>
+<description></description>
+<imageID id="1253756" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/A_Set.jpg" width="924" size="large"/>
+<rendition height="450" src="images/medium/A_Set.jpg" width="800" size="medium"/>
+<rendition height="253" src="images/small/A_Set.jpg" width="450" size="small"/>
+<rendition height="27" src="images/thumb/A_Set.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1253742" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/A_IMG_7468.jpg" width="262" size="large"/>
+<rendition height="450" src="images/medium/A_IMG_7468.jpg" width="227" size="medium"/>
+<rendition height="300" src="images/small/A_IMG_7468.jpg" width="151" size="small"/>
+<rendition height="48" src="images/thumb/A_IMG_7468.jpg" width="24" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1253728" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/A_IMG_7465.jpg" width="267" size="large"/>
+<rendition height="450" src="images/medium/A_IMG_7465.jpg" width="231" size="medium"/>
+<rendition height="300" src="images/small/A_IMG_7465.jpg" width="154" size="small"/>
+<rendition height="48" src="images/thumb/A_IMG_7465.jpg" width="25" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1253714" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/A_IMG_7464.jpg" width="269" size="large"/>
+<rendition height="450" src="images/medium/A_IMG_7464.jpg" width="233" size="medium"/>
+<rendition height="300" src="images/small/A_IMG_7464.jpg" width="155" size="small"/>
+<rendition height="48" src="images/thumb/A_IMG_7464.jpg" width="25" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1253700" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/A_IMG_7463.jpg" width="269" size="large"/>
+<rendition height="450" src="images/medium/A_IMG_7463.jpg" width="233" size="medium"/>
+<rendition height="300" src="images/small/A_IMG_7463.jpg" width="155" size="small"/>
+<rendition height="48" src="images/thumb/A_IMG_7463.jpg" width="25" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1253686" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/P2021196.jpg" width="405" size="large"/>
+<rendition height="450" src="images/medium/P2021196.jpg" width="350" size="medium"/>
+<rendition height="300" src="images/small/P2021196.jpg" width="234" size="small"/>
+<rendition height="48" src="images/thumb/P2021196.jpg" width="37" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1253672" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/Duett.jpg" width="524" size="large"/>
+<rendition height="450" src="images/medium/Duett.jpg" width="454" size="medium"/>
+<rendition height="300" src="images/small/Duett.jpg" width="303" size="small"/>
+<rendition height="48" src="images/thumb/Duett.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1253658" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/aeste_komplett.jpg" width="572" size="large"/>
+<rendition height="450" src="images/medium/aeste_komplett.jpg" width="495" size="medium"/>
+<rendition height="300" src="images/small/aeste_komplett.jpg" width="330" size="small"/>
+<rendition height="44" src="images/thumb/aeste_komplett.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253644" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="484" src="images/large/P2021195.jpg" width="640" size="large"/>
+<rendition height="450" src="images/medium/P2021195.jpg" width="595" size="medium"/>
+<rendition height="300" src="images/small/P2021195.jpg" width="397" size="small"/>
+<rendition height="36" src="images/thumb/P2021195.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253630" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="485" src="images/large/P2021187.jpg" width="295" size="large"/>
+<rendition height="450" src="images/medium/P2021187.jpg" width="274" size="medium"/>
+<rendition height="300" src="images/small/P2021187.jpg" width="182" size="small"/>
+<rendition height="48" src="images/thumb/P2021187.jpg" width="29" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253616" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/P2021183.jpg" width="411" size="large"/>
+<rendition height="450" src="images/medium/P2021183.jpg" width="356" size="medium"/>
+<rendition height="300" src="images/small/P2021183.jpg" width="237" size="small"/>
+<rendition height="48" src="images/thumb/P2021183.jpg" width="38" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253602" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/P2021181.jpg" width="417" size="large"/>
+<rendition height="450" src="images/medium/P2021181.jpg" width="361" size="medium"/>
+<rendition height="300" src="images/small/P2021181.jpg" width="241" size="small"/>
+<rendition height="48" src="images/thumb/P2021181.jpg" width="39" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253588" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/P2021170.jpg" width="364" size="large"/>
+<rendition height="450" src="images/medium/P2021170.jpg" width="315" size="medium"/>
+<rendition height="300" src="images/small/P2021170.jpg" width="210" size="small"/>
+<rendition height="48" src="images/thumb/P2021170.jpg" width="34" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253574" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="429" src="images/large/P2021168.jpg" width="638" size="large"/>
+<rendition height="429" src="images/medium/P2021168.jpg" width="638" size="medium"/>
+<rendition height="300" src="images/small/P2021168.jpg" width="446" size="small"/>
+<rendition height="32" src="images/thumb/P2021168.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253560" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/P2021165.jpg" width="520" size="large"/>
+<rendition height="450" src="images/medium/P2021165.jpg" width="450" size="medium"/>
+<rendition height="300" src="images/small/P2021165.jpg" width="300" size="small"/>
+<rendition height="48" src="images/thumb/P2021165.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253546" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/P2021145.jpg" width="255" size="large"/>
+<rendition height="450" src="images/medium/P2021145.jpg" width="221" size="medium"/>
+<rendition height="300" src="images/small/P2021145.jpg" width="147" size="small"/>
+<rendition height="48" src="images/thumb/P2021145.jpg" width="24" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253532" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="501" src="images/large/P2021142.jpg" width="678" size="large"/>
+<rendition height="450" src="images/medium/P2021142.jpg" width="609" size="medium"/>
+<rendition height="300" src="images/small/P2021142.jpg" width="406" size="small"/>
+<rendition height="35" src="images/thumb/P2021142.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253518" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="233" src="images/large/Landschaft_3.jpg" width="693" size="large"/>
+<rendition height="233" src="images/medium/Landschaft_3.jpg" width="693" size="medium"/>
+<rendition height="151" src="images/small/Landschaft_3.jpg" width="450" size="small"/>
+<rendition height="16" src="images/thumb/Landschaft_3.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253504" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="226" src="images/large/Landschaft_2.jpg" width="688" size="large"/>
+<rendition height="226" src="images/medium/Landschaft_2.jpg" width="688" size="medium"/>
+<rendition height="148" src="images/small/Landschaft_2.jpg" width="450" size="small"/>
+<rendition height="16" src="images/thumb/Landschaft_2.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253490" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="451" src="images/large/P2021106.jpg" width="727" size="large"/>
+<rendition height="450" src="images/medium/P2021106.jpg" width="725" size="medium"/>
+<rendition height="279" src="images/small/P2021106.jpg" width="450" size="small"/>
+<rendition height="30" src="images/thumb/P2021106.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253476" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="453" src="images/large/P2021102.jpg" width="592" size="large"/>
+<rendition height="450" src="images/medium/P2021102.jpg" width="588" size="medium"/>
+<rendition height="300" src="images/small/P2021102.jpg" width="392" size="small"/>
+<rendition height="37" src="images/thumb/P2021102.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253422" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="433" src="images/large/P2021093.jpg" width="657" size="large"/>
+<rendition height="433" src="images/medium/P2021093.jpg" width="657" size="medium"/>
+<rendition height="297" src="images/small/P2021093.jpg" width="450" size="small"/>
+<rendition height="32" src="images/thumb/P2021093.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253408" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="512" src="images/large/P2021065.jpg" width="653" size="large"/>
+<rendition height="450" src="images/medium/P2021065.jpg" width="574" size="medium"/>
+<rendition height="300" src="images/small/P2021065.jpg" width="383" size="small"/>
+<rendition height="38" src="images/thumb/P2021065.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253394" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="440" src="images/large/P2021042.jpg" width="631" size="large"/>
+<rendition height="440" src="images/medium/P2021042.jpg" width="631" size="medium"/>
+<rendition height="300" src="images/small/P2021042.jpg" width="430" size="small"/>
+<rendition height="33" src="images/thumb/P2021042.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253380" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="464" src="images/large/P2021034.jpg" width="664" size="large"/>
+<rendition height="450" src="images/medium/P2021034.jpg" width="644" size="medium"/>
+<rendition height="300" src="images/small/P2021034.jpg" width="429" size="small"/>
+<rendition height="34" src="images/thumb/P2021034.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253366" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="443" src="images/large/P2021022.jpg" width="446" size="large"/>
+<rendition height="443" src="images/medium/P2021022.jpg" width="446" size="medium"/>
+<rendition height="300" src="images/small/P2021022.jpg" width="302" size="small"/>
+<rendition height="48" src="images/thumb/P2021022.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253352" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/P2021012.jpg" width="342" size="large"/>
+<rendition height="450" src="images/medium/P2021012.jpg" width="296" size="medium"/>
+<rendition height="300" src="images/small/P2021012.jpg" width="197" size="small"/>
+<rendition height="48" src="images/thumb/P2021012.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253338" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/P2021005.jpg" width="343" size="large"/>
+<rendition height="450" src="images/medium/P2021005.jpg" width="297" size="medium"/>
+<rendition height="300" src="images/small/P2021005.jpg" width="198" size="small"/>
+<rendition height="48" src="images/thumb/P2021005.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253324" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/P2020991.jpg" width="386" size="large"/>
+<rendition height="450" src="images/medium/P2020991.jpg" width="334" size="medium"/>
+<rendition height="300" src="images/small/P2020991.jpg" width="222" size="small"/>
+<rendition height="48" src="images/thumb/P2020991.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253310" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/P2020983.jpg" width="293" size="large"/>
+<rendition height="450" src="images/medium/P2020983.jpg" width="254" size="medium"/>
+<rendition height="300" src="images/small/P2020983.jpg" width="169" size="small"/>
+<rendition height="48" src="images/thumb/P2020983.jpg" width="27" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253296" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/P2020981.jpg" width="258" size="large"/>
+<rendition height="450" src="images/medium/P2020981.jpg" width="224" size="medium"/>
+<rendition height="300" src="images/small/P2020981.jpg" width="149" size="small"/>
+<rendition height="48" src="images/thumb/P2020981.jpg" width="24" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253282" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/P2020977.jpg" width="360" size="large"/>
+<rendition height="450" src="images/medium/P2020977.jpg" width="312" size="medium"/>
+<rendition height="300" src="images/small/P2020977.jpg" width="208" size="small"/>
+<rendition height="48" src="images/thumb/P2020977.jpg" width="33" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253268" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/P2020941.jpg" width="534" size="large"/>
+<rendition height="450" src="images/medium/P2020941.jpg" width="462" size="medium"/>
+<rendition height="300" src="images/small/P2020941.jpg" width="308" size="small"/>
+<rendition height="47" src="images/thumb/P2020941.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253254" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/P2020932.jpg" width="360" size="large"/>
+<rendition height="450" src="images/medium/P2020932.jpg" width="312" size="medium"/>
+<rendition height="300" src="images/small/P2020932.jpg" width="208" size="small"/>
+<rendition height="48" src="images/thumb/P2020932.jpg" width="33" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253240" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="499" src="images/large/P2020925.jpg" width="499" size="large"/>
+<rendition height="450" src="images/medium/P2020925.jpg" width="450" size="medium"/>
+<rendition height="300" src="images/small/P2020925.jpg" width="300" size="small"/>
+<rendition height="48" src="images/thumb/P2020925.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253226" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="387" src="images/large/P2020915.jpg" width="646" size="large"/>
+<rendition height="387" src="images/medium/P2020915.jpg" width="646" size="medium"/>
+<rendition height="270" src="images/small/P2020915.jpg" width="450" size="small"/>
+<rendition height="29" src="images/thumb/P2020915.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253212" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="387" src="images/large/P2020911.jpg" width="581" size="large"/>
+<rendition height="387" src="images/medium/P2020911.jpg" width="581" size="medium"/>
+<rendition height="300" src="images/small/P2020911.jpg" width="450" size="small"/>
+<rendition height="32" src="images/thumb/P2020911.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253198" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="215" src="images/large/Landschaft_1.jpg" width="635" size="large"/>
+<rendition height="215" src="images/medium/Landschaft_1.jpg" width="635" size="medium"/>
+<rendition height="152" src="images/small/Landschaft_1.jpg" width="450" size="small"/>
+<rendition height="16" src="images/thumb/Landschaft_1.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253184" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="512" src="images/large/P2021185.jpg" width="407" size="large"/>
+<rendition height="450" src="images/medium/P2021185.jpg" width="358" size="medium"/>
+<rendition height="300" src="images/small/P2021185.jpg" width="238" size="small"/>
+<rendition height="48" src="images/thumb/P2021185.jpg" width="38" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253170" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/P2020889.jpg" width="415" size="large"/>
+<rendition height="450" src="images/medium/P2020889.jpg" width="359" size="medium"/>
+<rendition height="300" src="images/small/P2020889.jpg" width="239" size="small"/>
+<rendition height="48" src="images/thumb/P2020889.jpg" width="38" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253156" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/P2020884.jpg" width="368" size="large"/>
+<rendition height="450" src="images/medium/P2020884.jpg" width="318" size="medium"/>
+<rendition height="300" src="images/small/P2020884.jpg" width="212" size="small"/>
+<rendition height="48" src="images/thumb/P2020884.jpg" width="34" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253136" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="458" src="images/large/P2020876.jpg" width="384" size="large"/>
+<rendition height="450" src="images/medium/P2020876.jpg" width="377" size="medium"/>
+<rendition height="300" src="images/small/P2020876.jpg" width="252" size="small"/>
+<rendition height="48" src="images/thumb/P2020876.jpg" width="40" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253122" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/P2020869.jpg" width="367" size="large"/>
+<rendition height="450" src="images/medium/P2020869.jpg" width="318" size="medium"/>
+<rendition height="300" src="images/small/P2020869.jpg" width="212" size="small"/>
+<rendition height="48" src="images/thumb/P2020869.jpg" width="34" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253108" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/P2020867.jpg" width="364" size="large"/>
+<rendition height="450" src="images/medium/P2020867.jpg" width="315" size="medium"/>
+<rendition height="300" src="images/small/P2020867.jpg" width="210" size="small"/>
+<rendition height="48" src="images/thumb/P2020867.jpg" width="34" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253090" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/aeste_komplett_mit_holz.jpg" width="390" size="large"/>
+<rendition height="450" src="images/medium/aeste_komplett_mit_holz.jpg" width="338" size="medium"/>
+<rendition height="300" src="images/small/aeste_komplett_mit_holz.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/aeste_komplett_mit_holz.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>OLYMPUS DIGITAL CAMERA</title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID id="1253073" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="517" src="images/large/P2020852.jpg" width="1040" size="large"/>
+<rendition height="398" src="images/medium/P2020852.jpg" width="800" size="medium"/>
+<rendition height="224" src="images/small/P2020852.jpg" width="450" size="small"/>
+<rendition height="24" src="images/thumb/P2020852.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+</media>
+</mediaGroup>
